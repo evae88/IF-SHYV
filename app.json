@@ -1,0 +1,13 @@
+{
+    "name": "X2LT/V2LT",
+    "description": "Deploy V2LT or X2LT on Heroku.",
+    "keywords": ["V2LT/X2LT"],
+    "env": {
+        "ID": {
+            "description": "V2LT/X2LT ID, use uuid generator",
+            "value": "87b5c352-90d7-4ee1-9d1e-b03231c9fc53"
+        }
+    },
+    "repository": "",
+    "stack": "container"
+}
